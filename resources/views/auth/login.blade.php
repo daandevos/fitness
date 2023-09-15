@@ -46,4 +46,7 @@
             </x-primary-button>
         </div>
     </form>
+    <div class="text-center mt-8">
+        <a href="register">No account yet? <u>Register here.</u></a>
+    </div>
 </x-guest-layout>
